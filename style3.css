@@ -1,0 +1,45 @@
+body {
+    background-color: #400000;
+}
+p {
+    
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color:antiquewhite;
+    
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color:antiquewhite;
+}
+button {
+     background-color: antiquewhite;
+     border: 2;
+     color: black;
+     padding: 10px 30px;
+     text-align: center;
+     display: inline-block;
+     font-size: 20px;
+   }
+
+.container {
+    
+        display: flex;
+        flex-direction: column;
+        height: 60vh;
+        justify-content: center;
+        align-items: center;
+    
+    
+    
+}
+.container1 {
+    display: flex;
+    flex-direction: column;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+
+}
